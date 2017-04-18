@@ -1,0 +1,22 @@
+[
+  {
+    "group": "common",
+    "name": "by_Geography",
+    "desc": "",
+    "n": 56,
+    "height": 500,
+    "width": 500,
+    "updated": "2017-04-18 13:49:09",
+    "keySig": "65f363b3f9540a688f3d6717107ae59b"
+  },
+  {
+    "group": "common",
+    "name": "by_Geography_Disease",
+    "desc": "",
+    "n": 112,
+    "height": 500,
+    "width": 500,
+    "updated": "2017-04-18 13:49:43",
+    "keySig": "af33b51ca0bc036e59d3c101c74d8180"
+  }
+]
